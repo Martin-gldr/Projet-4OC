@@ -278,6 +278,20 @@ input[type=submit] {
 	background-color: #beb45a;
 	padding: .5em 1em
 }
+.carousel-control-next{
+	background: #000;
+	opacity: 20%;
+}
+.carousel-control-next-icon{
+	opacity: 100%;
+}
+.carousel-control-prev{
+	background: #000;
+	opacity: 20%;
+}
+.carousel-control-prev-icon{
+	opacity: 100%;
+}
 
 @media all and (max-width:1180px) {
 	.picture {
